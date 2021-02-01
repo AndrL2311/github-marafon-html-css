@@ -26,7 +26,57 @@ body {
 }
 .my-education-experience {
 }
-
+/* sidebar sections */
 .sidebar-sections {
   background-color: #1e2939;
+  width: 370px p;
+  padding: 40px 0;
+}
+
+.contacs-section,
+.soft-skil-section,
+.tech-skills-section {
+  margin: 50px 0 0 40px;
+}
+
+.sidebar-title {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 22px;
+  line-height: 27px;
+  color: #ffffff;
+  margin-bottom: 10px;
+}
+/* Contact section */
+.contacs-section-type {
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 24px;
+  color: #ffffff;
+  margin-right: 7px;
+}
+
+.contacs-section-link {
+  color: #565e6a;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+}
+
+.tech-skills-list,
+.soft-skil-list {
+  padding: 0 0 0 15px;
+}
+
+.skils-item {
+  color: #fb603a;
+}
+
+.text-item {
+  color: #fff;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
 }
