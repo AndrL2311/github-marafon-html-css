@@ -9,6 +9,7 @@ body {
   width: 1200px;
   background-color: #fff;
   margin: 40px auto;
+  box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
 }
 .about-me-profession {
   font-size: 14px;
@@ -17,15 +18,145 @@ body {
 }
 
 .main-container-section {
+  padding: 100px 90px;
 }
+.main-contant-section {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 22px;
+  line-height: 27px;
+  color: #000;
+  margin-bottom: 10px;
+}
+
+/* About me section */
 .about-me-section {
+  margin: 0 0 40px 0;
 }
+.about-me-profession {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 17px;
+  color: #000;
+  margin: 0 0 20px 0;
+}
+.about-me-name {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 45px;
+  line-height: 55px;
+  color: #000;
+  margin: 0 0 25px 0;
+}
+.about-me-deskription {
+  width: 400px;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+}
+
+/* My project section */
+
 .my-project-section {
+  margin-bottom: 50px;
 }
+
+.my-project-list {
+  padding: 0 0 0 18px;
+}
+.my-project-item {
+  color: #000;
+  font-weight: bold;
+}
+.my-project-link {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+}
+.my-project-text {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+  margin-left: 5px;
+}
+.my-project-bracket {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 24px;
+  color: #000000;
+}
+/* My work experience */
 .my-work-experience {
+  margin: 0 0 50px 0;
 }
-.my-education-experience {
+.my-work-experience-company {
+  color: #fb6d3a;
 }
+.my-work-experience-position {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 20px;
+  margin: 0 0 10px 0;
+}
+.my-work-experience-period {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 15px;
+  color: #a8a8a8;
+  margin: 0 0 10px 0;
+}
+.my-work-experience-devider {
+  color: #000;
+}
+.my-work-experience-duties {
+  padding: 0 0 0 18px;
+}
+.my-work-experience-duty {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+}
+.my-work-experience-company-blok {
+  margin: 0 15px 0 0;
+}
+/* My Education experience */
+.main-education-section {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 22px;
+  line-height: 27px;
+  color: #000;
+  margin-bottom: 10px;
+}
+.my-education-experience-university {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 20px;
+  color: #fb6d3a;
+  margin: 0 0 10px 0;
+}
+.my-education-experience-faculty {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 17px;
+  color: #000000;
+  margin: 0 0 10px 0;
+}
+
 /* sidebar sections */
 .sidebar-sections {
   background-color: #1e2939;
