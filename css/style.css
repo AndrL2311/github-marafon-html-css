@@ -187,6 +187,15 @@ body {
   margin-right: 7px;
 }
 
+.contacs-section-tel {
+  color: #565e6a;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  text-decoration: none;
+}
+
 .contacs-section-link {
   color: #565e6a;
   font-style: normal;
